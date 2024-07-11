@@ -60,7 +60,7 @@ ul li:before {
   content: "v";
   padding: 0.6rem;
   font-size: 1.3rem;
-  color: white;
+  color: rgb(1, 1, 1);
 }
 ul li:after {
   opacity: 0;
